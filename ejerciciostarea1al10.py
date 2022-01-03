@@ -2,7 +2,7 @@ class deber:
     #¿De cuál tipo de dato sería la variable donde almacena lo siguiente?
     def ejercicio1(self):
         variable1 = "Hola mundo"
-        variable2 = "verdadero"
+        variable2 = True
         variable3 = ",,1'"
         variable4 = ",,c'"
         variable5 = 256
