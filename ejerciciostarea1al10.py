@@ -1,3 +1,6 @@
+#Nombre: Andrea Conde
+#Carrera: Ingeniería en software 3er nivel
+
 class deber:
     #¿De cuál tipo de dato sería la variable donde almacena lo siguiente?
     def ejercicio1(self):
