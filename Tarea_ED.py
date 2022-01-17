@@ -1,3 +1,10 @@
+#Nombre: Andrea Conde Pérez
+#Carrera:Ingeniería en software
+#Materia: Estructura de datos
+# 3er semestre aula C1
+
+
+
 #Hacer un programa que solicite al usuario cuánto costó una cena en un restaurante. A ese valor, sumarle un 6.2% en concepto de servicio y un 10% de propina. Imprimir en pantalla el monto final a pagar.
 class Tarea:
     def ejercicio1(self):
